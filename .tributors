@@ -238,5 +238,9 @@
     "asmacdo": {
         "name": "Austin Macdonald",
         "blog": "https://github.com/asmacdo"
+    },
+    "matrss": {
+        "name": "Matthias Riße",
+        "blog": "https://github.com/matrss"
     }
 }

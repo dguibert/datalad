@@ -526,6 +526,17 @@
             "avatar_url": [
                 "https://avatars.githubusercontent.com/u/1028657?v=4"
             ]
+        },
+        {
+            "login": "matrss",
+            "name": "Matthias Riße",
+            "contributions": [
+                "code"
+            ],
+            "profile": "https://github.com/matrss",
+            "avatar_url": [
+                "https://avatars.githubusercontent.com/u/9308656?v=4"
+            ]
         }
     ],
     "contributorsPerLine": 7
